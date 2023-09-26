@@ -13,8 +13,7 @@ Things you need:
 This is what the console should display when starting the notebook, and usually a browser opens, but you can also
 open it by clicking on the link provided in the console
 
-![Screenshot from 2023-09-26 21-00-28](https://github.com/Obsoleth/bioIT/assets/114667654/ddfee5d6-e88a-4c99-8711-94178df794f8)
-
+![Screenshot from 2023-09-26 21-00-28](https://github.com/lightonmyhands/bioittest/assets/88935187/7d69970d-7c93-40f7-b154-a39da67dca1d)
 
 The notebook works as follows:
 You have on top in the center the button "Run"
@@ -23,6 +22,6 @@ Feel free to do this in an IDE or run in some other way, but I think python note
 
 So to run a certain code fragment, click on it (select it) and press the run button above in the center!
 
-![Screenshot from 2023-09-26 21-05-14](https://github.com/Obsoleth/bioIT/assets/114667654/6a5e366d-5c8a-430b-976c-adcb49948b30)
+![Screenshot from 2023-09-26 21-05-14](https://github.com/lightonmyhands/bioittest/assets/88935187/050331c7-e94e-4ba8-8dd0-8bbce428a8d5)
 
 If you have any questions regarding setup feel free to hit me up!
